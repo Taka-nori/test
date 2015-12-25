@@ -1,0 +1,20 @@
+#section0{
+	width: 100%;
+	background-image: url('example.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p{
+	font-size: 24px;
+	color: #aaa;
+}
+#section1{
+	background-color: #7BAABE;
+}
+#section2{
+	background-color: #fcfcfc;
+}
+#section3{
+	background-color: #ccddff;
+}
